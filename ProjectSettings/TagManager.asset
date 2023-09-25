@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Boss
+  - Collision
+  - Vision
+  - Bullet
+  - Environment
+  - Platform
+  - Particles
+  - Destructibles
+  - Player Collision
+  - Interactible
+  - Trigger
+  - Enemy Bullets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background Elements
+    uniqueID: 2681847751
+    locked: 0
+  - name: Environment
+    uniqueID: 2597446541
+    locked: 0
+  - name: Boss
+    uniqueID: 2242959285
+    locked: 0
+  - name: Enemies
+    uniqueID: 597436769
+    locked: 0
+  - name: Projectiles
+    uniqueID: 1084664369
+    locked: 0
+  - name: Particles
+    uniqueID: 1712262255
+    locked: 0
+  - name: World UI
+    uniqueID: 3543015191
+    locked: 0
+  - name: Player
+    uniqueID: 2683124673
+    locked: 0
+  - name: Guns
+    uniqueID: 1137790883
+    locked: 0
+  - name: Platforms
+    uniqueID: 3098921599
+    locked: 0
